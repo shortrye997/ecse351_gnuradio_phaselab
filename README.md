@@ -18,7 +18,11 @@ the three signals and their constellations of phase shift. I have included the a
 * When opened, it should appear as this:
 ![Image of flowchart on GNU radio](image_flowgraph.png)
 * There should be a start button in toolbar at the top bar, click it and should get something like this:
-
+![Image of graphs](image_graphs.png)
+* Use the slider to change the variables
 
 ## Help
 GNU radio [documentation](https://wiki.gnuradio.org/index.php?title=Category:Block_Docs)
+
+## Authors
+Ryan Shorter
