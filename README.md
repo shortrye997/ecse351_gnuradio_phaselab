@@ -16,7 +16,9 @@ the three signals and their constellations of phase shift. I have included the a
 ### Executing Program
 * Open the .grc file in GNU radio software
 * When opened, it should appear as this:
-![Image of flowchart on GNU radio](https://github.com/shortrye997/ecse351_gnuradio_phaselab/blob/main/README.md)
+![Image of flowchart on GNU radio](image_flowgraph.png)
+* There should be a start button in toolbar at the top bar, click it and should get something like this:
+
 
 ## Help
 GNU radio [documentation](https://wiki.gnuradio.org/index.php?title=Category:Block_Docs)
