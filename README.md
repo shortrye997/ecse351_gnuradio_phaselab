@@ -1,1 +1,1 @@
-# ecse351_gnuradio_phaselab
+# ECSE 351 GNU Radio Phase Lab
