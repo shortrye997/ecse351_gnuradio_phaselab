@@ -14,4 +14,8 @@ the three signals and their constellations of phase shift. I have included the a
 * Here is the [documentation](https://wiki.gnuradio.org/index.php/InstallingGR) to install GNU radio
 
 ### Executing Program
-* Open the .grc file in GNU radio
+* Open the .grc file in GNU radio software
+* 
+
+## Help
+GNU radio [documentation](https://wiki.gnuradio.org/index.php?title=Category:Block_Docs)
